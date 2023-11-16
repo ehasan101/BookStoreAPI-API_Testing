@@ -39,7 +39,7 @@ Those are divided into 5 categories. \
 ![http_status_code](https://drive.google.com/uc?export=view&id=1iwy6FJw2krnOtpOmMhhHocFpXgfguTBM)
 
 
-## What I have done & Testcase Scenarios in this Testing!
+## Working Scenarios & What I have done in this Testing!
 * Accounts
   - Create User [POST method]
   - Generate Token [POST method]
