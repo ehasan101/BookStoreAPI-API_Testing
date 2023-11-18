@@ -20,7 +20,7 @@ Run on cmd
 Install newman `npm install -g newman`
 3. Now 
 `newman run "Book Store API.postman_collection.json" -e BookStoreAPI.postman_environment.json`
-4. If want to export test results first install them \
+4. If want to **export test results** first install them \
    `npm install -g newman-reporter-html` \
  and `npm install -g newman-reporter-htmlextra`
 6. Now run follwing command for report \
@@ -28,7 +28,7 @@ Install newman `npm install -g newman`
 
 ## HTTP Status Codes
 HTTP status code are 3 digit number which a server response to a browser’s request.
-Those are divided into 5 categories. \
+Those are divided into 5 categories.
 ```
 1xx - Informational Purpose
 2xx - Successful
