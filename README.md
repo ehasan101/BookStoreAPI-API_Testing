@@ -30,7 +30,7 @@ Install newman `npm install -g newman`
 ## HTTP Status Codes
 HTTP status code are 3 digit number which a server response to a browser’s request.
 Those are divided into 5 categories.
-```
+```ruby
 1xx - Informational Purpose
 2xx - Success
 3xx - Redirection
