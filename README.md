@@ -3,8 +3,10 @@
 # API_Testing-Project
 <br>
 
-## API Testing for Book Store API with Postman
-This project is on API testing with Postman for the Book Store API web-service. It's evaluating the APIs are working functionality and usability as expected. 
+## API Testing: Book Store API with Postman
+The Book Store API allows users to manage user accounts and book collections. This Postman project automates the testing of its core functionalities, including user creation, token generation, and CRUD (Create, Read, Update, Delete) operations for books.
+The testing process involves sending HTTP requests to various endpoints and using Postman's scripting capabilities to assert that the API responses are correct. It's evaluating the APIs are working functionality and usability as expected. 
+
 
 ## How to run this project!
 1. Install [Postman](https://www.postman.com/).
