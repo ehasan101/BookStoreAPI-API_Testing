@@ -16,7 +16,7 @@ The testing process involves sending HTTP requests to various endpoints and usin
 `file > import > choose the method > press 'import'`
 5. Run Desired API request.
 
-Run on cmd
+**Run on cmd**
 1. Open cmd on project folder or move to project folder `cd Downloads/project_file`
 2. Run the follwing command 
 Install newman `npm install -g newman`
@@ -24,8 +24,7 @@ Install newman `npm install -g newman`
 `newman run "Book Store API.postman_collection.json" -e BookStoreAPI.postman_environment.json`
 4. **If want to export test results** \
    first install them \
-   `npm install -g newman-reporter-html` \
- and `npm install -g newman-reporter-htmlextra`
+   `npm install -g newman-reporter-html` and `npm install -g newman-reporter-htmlextra`
 6. Now run follwing command for report \
 `newman run "Book Store API.postman_collection.json" -e BookStoreAPI.postman_environment.json -r cli,htmlextra`
 
